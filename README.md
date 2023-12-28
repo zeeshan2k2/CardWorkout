@@ -3,4 +3,4 @@ I've made a step-by-step guide to make this app for study purposes, feel free to
 <img src="https://github.com/zeeshan2k2/CardWorkout/blob/main/CardWorkout/App%20icon.jpg" width="150" height="150">
  
 <img src="https://github.com/zeeshan2k2/CardWorkout/blob/main/CardWorkout/Main%20screen.PNG" width="250" height="450">
-<img src="https://github.com/zeeshan2k2/CardWorkout/blob/main/CardWorkout/Main%20screen.PNG" width="250" height="450">
+<img src="https://github.com/zeeshan2k2/CardWorkout/blob/main/CardWorkout/Rules%20screen.PNG" width="250" height="450">
